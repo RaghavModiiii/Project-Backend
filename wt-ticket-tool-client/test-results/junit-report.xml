@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="8" failures="8" errors="0" time="0">
+    <testsuite name="src/test/admin.test.ts" timestamp="2025-04-28T15:10:50.480Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/admin.test.ts" name="src/test/admin.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/attachment.test.ts" timestamp="2025-04-28T15:10:50.487Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/attachment.test.ts" name="src/test/attachment.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/comments.test.ts" timestamp="2025-04-28T15:10:50.491Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/comments.test.ts" name="src/test/comments.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/getUser.test.ts" timestamp="2025-04-28T15:10:50.494Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/getUser.test.ts" name="src/test/getUser.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/getUserDepartment.test.ts" timestamp="2025-04-28T15:10:50.497Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/getUserDepartment.test.ts" name="src/test/getUserDepartment.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/notification.test.ts" timestamp="2025-04-28T15:10:50.500Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/notification.test.ts" name="src/test/notification.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/ticketApi.test.ts" timestamp="2025-04-28T15:10:50.503Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/ticketApi.test.ts" name="src/test/ticketApi.test.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/test/useTicketForm.spec.ts" timestamp="2025-04-28T15:10:50.505Z" hostname="CND3231HMJ" tests="1" failures="1" errors="0" skipped="0" time="0">
+        <testcase classname="src/test/useTicketForm.spec.ts" name="src/test/useTicketForm.spec.ts" time="0">
+            <failure message="Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;" type="Error">
+Error: Cannot find module &apos;C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts&apos;
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { code: &apos;ERR_MODULE_NOT_FOUND&apos; }
+Caused by: Error: Failed to load url C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts (resolved id: C:/Users/Wissen/Downloads/Frontend/src/test/setup.ts). Does the file exist?
+ ❯ loadAndTransform node_modules/vite/dist/node/chunks/dep-B0fRCRkQ.js:41310:17
+            </failure>
+        </testcase>
+    </testsuite>
+</testsuites>

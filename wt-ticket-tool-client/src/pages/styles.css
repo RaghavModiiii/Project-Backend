@@ -1,0 +1,53 @@
+.ag-row-hover:hover {
+    cursor: pointer;
+  }
+  
+  .ag-header-cell {
+    cursor: pointer !important;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-fadeIn {
+    animation: fadeIn 0.2s ease-in-out;
+  }
+  
+
+.start-date {
+  background-color: green !important;
+  color: white !important;
+  border-radius: 50%;
+}
+.end-date {
+  background-color: green !important;
+  color: white !important;
+  border-radius: 50%;
+}
+.in-range {
+  background-color: lightgreen !important;
+  color: black !important;
+}
+.custom-range-day {
+  background-color: #a4b6ff !important; 
+  color:white !important;            
+  border-radius: 9999px !important;    
+}
+
+.custom-start-day {
+  background-color: #3a10d2 !important; 
+  color: white !important;
+}
+
+.custom-end-day {
+  background-color: #3a10d2  !important;
+  color: white !important;
+}

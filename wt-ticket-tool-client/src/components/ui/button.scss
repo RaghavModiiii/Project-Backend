@@ -1,0 +1,67 @@
+// Color Variables
+$green: #2ecc71;
+$lightgray: lightgray;
+$background: whitesmoke;
+
+body {
+  background: $background;
+  h1 {
+    text-align: center;
+    color: gray;
+  }
+  h2 {
+    text-align: center;
+    color: gray;
+  }
+}
+
+.toggle-container {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.toggle-checkbox {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.toggle-switch {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $lightgray;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.toggle-checkbox:checked + .toggle-switch {
+  background-color: $green;
+}
+
+.toggle-switch:before {
+  content: "";
+  position: absolute;
+  height: 26px;
+  width: 26px;
+  border-radius: 50px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+}
+
+.toggle-checkbox:checked + .toggle-switch:before {
+  transform: translateX(26px);
+}
+
+.status-text {
+  font-weight: bold;
+  margin-left: 10px;
+  color: #333;
+}
